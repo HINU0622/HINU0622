@@ -38,4 +38,4 @@
   
 </div>
   
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=666666&height=200&text=Php%20is%20Better%20Than%20Python&fontColor=ffffff&fontSize=25&fontAlignY=70&section=footer)
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=666666&height=200&text=Don't%20Regret%20missing%20this%20Chance.&desc=You've%20Missed%20So%20Many%20Chances%20You%20Don't%20Know%20🤣🤣🤣🤣🤣🤣🤣🤣&fontColor=ffffff&fontSize=25&fontAlignY=60&descAlignY=75&section=footer)
