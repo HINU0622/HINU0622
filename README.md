@@ -29,11 +29,13 @@
 # 💬 Information
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HINU0622)](https://github.com/HINU0622/github-readme-stats)
-
-</div>
+  
+  
 
 이재진 (대구소프트웨어마이스터고등학교 7기)
 
 뭐만들지
+  
+</div>
   
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=666666&height=200&text=Php%20is%20Better%20Than%20Python&fontColor=ffffff&fontSize=25&fontAlignY=70&section=footer)
