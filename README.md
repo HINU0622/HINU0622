@@ -34,16 +34,6 @@
 
 이재진 (대구소프트웨어마이스터고등학교 7기)
 
-석식은 우리학교가 제일 맛있어요
-
-호로록 국수가 먹고 싶어요 😢
-
-병 걸려서 죽지 않는 한 계속 코딩 하고 싶어요
-
-신기술을 개발해서 언젠가는 성공할 수 있겠죠..?
-
-<div align = center>
-
-You do that too if you are **ANGRY** hahaha
+뭐만들지
   
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=666666&height=200&text=Php%20is%20Better%20Than%20Python&fontColor=ffffff&fontSize=25&fontAlignY=70&section=footer)
