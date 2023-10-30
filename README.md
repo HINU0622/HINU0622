@@ -34,7 +34,8 @@
 
 이재진 (대구소프트웨어마이스터고등학교 7기)
 
-뭐만들지
+**Notion**
+https://www.notion.so/c271d1142e4b4de3b9c843a038635153?pvs=4
   
 </div>
   
